@@ -7,6 +7,7 @@ Vault for my mechanical keyboards ideas and resources.
 * Wiring and pinout matrix creator with firmware builder ([Keyboard Firmware Builder](https://kbfirmware.com))
 * Official QMK configurator that has some useful features ([QMK Configurator](https://config.qmk.fm))
 * QMK keycode reference([QMK Documentation](https://docs.qmk.fm/#/keycodes))
+* Backplate generator (creates backplate model/blueprint) ([Plate & Case Builder](http://builder.swillkb.com/))
 
 ## Compact Keyboard
 #### Idea:
