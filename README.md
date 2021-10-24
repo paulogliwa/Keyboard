@@ -13,3 +13,6 @@ Vault for my mechanical keyboards ideas and resources.
 #### Idea:
 Something that will fit on every desk, is portable (if I want to work somewhere else that day) and versatile.
 ####
+
+## Other stuff
+* https://brianlee.blog/2018/11/23/guide-keyboard-construction-explained/
