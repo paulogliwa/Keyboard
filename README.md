@@ -12,3 +12,10 @@ Vault for my mechanical keyboards ideas and resources.
 #### Idea:
 Something that will fit on every desk, is portable (if I want to work somewhere else that day) and versatile.
 ####
+
+
+## Software workflow with Arduino
+* Map pinout, wirigin and keys in kbfirmware and build the .hex file
+* Load the .hex file in QMK Toolbox and check "Auto flash" option
+* Connect the keyboard to usb and press RESET key (if mapped) or short RST and GND (if reset is not mapped)
+* software should flash to the Arduino board and the keyboard is ready to use
