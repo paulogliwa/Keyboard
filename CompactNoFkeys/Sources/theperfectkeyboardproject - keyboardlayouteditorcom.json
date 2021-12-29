@@ -1,0 +1,185 @@
+[
+  {
+    "name": "ThePerfectKeyboardProject",
+    "author": "Paulo Gliwa",
+    "notes": "Work in progress...\n\nTodo:\n-figure out colors",
+    "background": {
+      "name": "Mahogany African",
+      "style": "background-image: url('/bg/wood/mahogany-african.jpg');"
+    },
+    "radii": "15px",
+    "switchMount": "cherry",
+    "switchBrand": "gateron",
+    "switchType": "KS-3-Tea",
+    "plate": true
+  },
+  [
+    {
+      "c": "#95bfe8",
+      "a": 7
+    },
+    "Esc",
+    {
+      "c": "#b4b2ab",
+      "a": 4
+    },
+    "!\n1",
+    "@\n2",
+    "#\n3",
+    "$\n4",
+    "%\n5",
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0",
+    "_\n-",
+    "+\n=",
+    {
+      "a": 7,
+      "w": 2
+    },
+    "<i class='fa fa-mail-reply-all'></i>",
+    "Del"
+  ],
+  [
+    {
+      "c": "#525554",
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "c": "#8d887a"
+    },
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    {
+      "a": 5
+    },
+    "{\n[",
+    "}\n]",
+    {
+      "c": "#525554",
+      "w": 1.5
+    },
+    "|\n\n\n\n\n\n\\",
+    {
+      "c": "#b4b2ab",
+      "a": 7
+    },
+    "Home"
+  ],
+  [
+    {
+      "c": "#9aa859",
+      "w": 1.75
+    },
+    "Layer",
+    {
+      "c": "#8d887a"
+    },
+    "A",
+    "S",
+    "D",
+    {
+      "n": true
+    },
+    "F",
+    "G",
+    "H",
+    {
+      "n": true
+    },
+    "J",
+    "K",
+    "L",
+    {
+      "a": 5
+    },
+    ":\n;",
+    "\"\n'",
+    {
+      "c": "#b81b24",
+      "a": 7,
+      "w": 2.25
+    },
+    "Enter",
+    {
+      "c": "#b4b2ab"
+    },
+    "End"
+  ],
+  [
+    {
+      "c": "#525554",
+      "w": 2.25
+    },
+    "Shift",
+    {
+      "c": "#8d887a"
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    {
+      "a": 5
+    },
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "c": "#525554",
+      "a": 7,
+      "w": 1.75
+    },
+    "Shift",
+    {
+      "c": "#79bbec"
+    },
+    "<i class='fa fa-long-arrow-up'></i>",
+    {
+      "c": "#b4b2ab"
+    },
+    ""
+  ],
+  [
+    {
+      "c": "#525554",
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "w": 6.25
+    },
+    "",
+    "Alt",
+    "Win",
+    "Menu",
+    {
+      "c": "#79bbec"
+    },
+    "<i class='fa fa-long-arrow-left'></i>",
+    "<i class='fa fa-long-arrow-down'></i>",
+    "<i class='fa fa-long-arrow-right'></i>"
+  ]
+]
