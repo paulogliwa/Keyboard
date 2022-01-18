@@ -3,8 +3,10 @@
 Compact keyboard without numpad and F1-F12 keys with arrows squished under Return key. I think it's called 63%.
 
 ![visual](https://raw.githubusercontent.com/paulogliwa/Keyboard/master/CompactNoFkeys/Images/RoughVisualisation.jpg)   
-*This may not be the final look*
-![updated after using the original layout](https://raw.githubusercontent.com/paulogliwa/Keyboard/master/CompactNoFkeys/Images/layoutRework.jpg)  (https://raw.githubusercontent.com/paulogliwa/Keyboard/master/CompactNoFkeys/Images/layoutReworkLayer2.png)  
+*This may not be the final look*   
+updated after using the original layout   
+![layer1](https://raw.githubusercontent.com/paulogliwa/Keyboard/master/CompactNoFkeys/Images/layoutRework.png)  
+![layer2](https://raw.githubusercontent.com/paulogliwa/Keyboard/master/CompactNoFkeys/Images/layoutReworkLayer2.png)  
 
 # Parts list
 + 1N4148 DIODES
