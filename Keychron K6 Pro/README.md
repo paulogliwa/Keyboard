@@ -6,3 +6,14 @@
 2 - F1-F12 buttons, +MissionControl on F3, BT keys and RGB controll   
 3 - currently unused (win function button out of the box)   
 4 - F1-F12 repeated (to include F3), media controls on arrow and space + B battery lvl   
+
+
+![layer0](https://raw.githubusercontent.com/paulogliwa/Keyboard/master/Keychron%20K6%20Pro/Keymap%20Guide/layer_0.jpg)  
+![layer1](https://raw.githubusercontent.com/paulogliwa/Keyboard/master/Keychron%20K6%20Pro/Keymap%20Guide/layer_1.jpg)  
+![layer2](https://raw.githubusercontent.com/paulogliwa/Keyboard/master/Keychron%20K6%20Pro/Keymap%20Guide/layer_2.jpg)  
+![layer3](https://raw.githubusercontent.com/paulogliwa/Keyboard/master/Keychron%20K6%20Pro/Keymap%20Guide/layer_3.jpg)  
+![layer4](https://raw.githubusercontent.com/paulogliwa/Keyboard/master/Keychron%20K6%20Pro/Keymap%20Guide/layer_4.jpg)  
+   
+   
+### Todo   
+- Add macros to switch audio output between monitor and headphones
